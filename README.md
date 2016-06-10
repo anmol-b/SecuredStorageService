@@ -1,13 +1,8 @@
-# Python Starter Overview
+# Secured Storage Service using IBM Bluemix ObjectStorage
 
-The Python Starter demonstrates a simple, reusable Python web application.
+## Provides following functionality
 
-## Run the app locally
-
-1. [Install Python][]
-2. Download and extract the starter code from the Bluemix UI
-3. cd into the app directory
-4. Run `python server.py`
-5. Access the running app in a browser at http://localhost:8000
-
-[Install Python]: https://www.python.org/downloads/
+1. Upload file in unstructured storage
+2. Download file
+3. Delete file
+4. List all the files for particular user present in the system
