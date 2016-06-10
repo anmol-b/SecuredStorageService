@@ -3,8 +3,8 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: StorageService2
-  host: storageservice2
+  name: 
+  host: 
   disk_quota: 1024M
   services:
   - Object Storage-jh
